@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+  <specVersion>
+    <major>1</major>
+    <minor>0</minor>
+  </specVersion>
+
+  <device>
+    <deviceType>urn:schemas-upnp-org:device:InternetGatewayDevice:1</deviceType>
+    <friendlyName>corazon-c0-ff-ee</friendlyName>
+    <manufacturer>Westermo</manufacturer>
+    <manufacturerURL>http://www.westermo.com/</manufacturerURL>
+    <modelDescription>RedFox RFIR</modelDescription>
+    <modelName>RFIR</modelName>
+    <modelNumber>v5</modelNumber>
+    <modelURL>http://www.westermo.com/</modelURL>
+    <serialNumber>0000001</serialNumber>
+    <UDN>DummyUDN1</UDN>
+    <UPC>00000-00001</UPC>
+
+    <iconList>
+      <icon>
+        <mimetype>image/png</mimetype>
+        <width>151</width>
+        <height>133</height>
+        <depth>16</depth>
+        <url>weos.png</url>
+      </icon>
+    </iconList>
+
+    <presentationURL>http://198.18.101.42</presentationURL>
+
+  </device>
+</root>
